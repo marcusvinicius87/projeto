@@ -1,1 +1,3 @@
-Este é um teste.
+Este ï¿½ um teste.
+
+teste teste teste
